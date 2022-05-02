@@ -29,3 +29,4 @@ curl -O https://raw.githubusercontent.com/awslabs/amazon-eks-ami/master/log-coll
 ### 1.1.1. check cni logs
 
 var_log/aws-routed-eni/plugin.log
+delete TEST
